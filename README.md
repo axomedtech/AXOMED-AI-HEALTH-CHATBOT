@@ -17,5 +17,5 @@ AI: cold
 Not a medical tool, only for learning ML basics.
 
 ## 👨‍💻 Author
-Aravindhan 
-AXOMED
+-Aravindhan 
+-AXOMED
